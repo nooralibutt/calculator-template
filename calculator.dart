@@ -6,4 +6,8 @@ class Calculator {
     void subtract(int a, int b) {
         return a - b;
     }
+
+    void multiply(int a, int b) {
+        return a * b;
+    }
 }
